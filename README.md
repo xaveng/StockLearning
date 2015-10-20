@@ -14,5 +14,6 @@ TortoiseGit: https://tortoisegit.org/
 msysgit: https://git-for-windows.github.io/
 # Reference
 https://en.wikipedia.org/wiki/Automated_trading_system
-https://wikidocs.net/1815
-http://studymake.tistory.com/462
+Automated stock trade with python: https://wikidocs.net/1815
+Kiwoom api with C#: http://studymake.tistory.com/462
+How to save credential: http://stackoverflow.com/questions/14000173/tortoisegit-save-user-authentication-credentials
