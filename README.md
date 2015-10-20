@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/xaveng/StockLearning.png?label=ready&title=Ready)](https://waffle.io/xaveng/StockLearning)
 # StockLearning
 Automated stock trading system
 # Contributors
