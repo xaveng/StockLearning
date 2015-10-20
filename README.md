@@ -1,10 +1,14 @@
 # StockLearning
 Automated stock trading system
 
+
+
 # Contributors
 * Hyounrho Lee	
 * Seo Jeong		xaveng@gmail.com
 * Soomin Jeong	judasowelu@gmail.com
+
+
 
 # Configuration
 * Visual Studio Community: https://www.visualstudio.com/ko-kr/visual-studio-homepage-vs.aspx
@@ -12,6 +16,8 @@ Automated stock trading system
 * Kanban Board: https://waffle.io/xaveng/StockLearning
 * TortoiseGit: https://tortoisegit.org/
 * msysgit: https://git-for-windows.github.io/
+
+
 
 # Reference
 * https://en.wikipedia.org/wiki/Automated_trading_system
