@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-# test
-#
-#
-
-=======
-[![Stories in Ready](https://badge.waffle.io/xaveng/StockLearning.png?label=ready&title=Ready)](https://waffle.io/xaveng/StockLearning)
->>>>>>> cd9b1a217af8a7ed1a97b6c777f3044240b51fb8
 # StockLearning
 Automated stock trading system
 
@@ -32,3 +24,5 @@ Automated stock trading system
 * Automated stock trade with python: https://wikidocs.net/1815
 * Kiwoom api with C#: http://studymake.tistory.com/462
 * How to save credential: http://stackoverflow.com/questions/14000173/tortoisegit-save-user-authentication-credentials
+
+#test
