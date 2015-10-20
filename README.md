@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 # test
 #
 #
 
+=======
+[![Stories in Ready](https://badge.waffle.io/xaveng/StockLearning.png?label=ready&title=Ready)](https://waffle.io/xaveng/StockLearning)
+>>>>>>> cd9b1a217af8a7ed1a97b6c777f3044240b51fb8
 # StockLearning
 Automated stock trading system
 
