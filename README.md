@@ -1,4 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/xaveng/StockLearning.png?label=ready&title=Ready)](https://waffle.io/xaveng/StockLearning)
 # StockLearning
 Automated stock trading system
 
@@ -25,3 +24,5 @@ Automated stock trading system
 * Automated stock trade with python: https://wikidocs.net/1815
 * Kiwoom api with C#: http://studymake.tistory.com/462
 * How to save credential: http://stackoverflow.com/questions/14000173/tortoisegit-save-user-authentication-credentials
+
+#test
