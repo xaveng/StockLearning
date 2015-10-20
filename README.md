@@ -4,7 +4,7 @@ Automated stock trading system
 
 
 # Contributors
-* Hyounrho Lee	
+* Hyoungrho Lee	laciel85@gmail.com
 * Seo Jeong		xaveng@gmail.com
 * Soomin Jeong	judasowelu@gmail.com
 
