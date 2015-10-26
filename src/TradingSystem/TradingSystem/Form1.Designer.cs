@@ -28,12 +28,49 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            this.axKHOpenAPI1 = new AxKHOpenAPILib.AxKHOpenAPI();
+            this.로그인 = new System.Windows.Forms.Button();
+            ((System.ComponentModel.ISupportInitialize)(this.axKHOpenAPI1)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // axKHOpenAPI1
+            // 
+            this.axKHOpenAPI1.Enabled = true;
+            this.axKHOpenAPI1.Location = new System.Drawing.Point(13, 226);
+            this.axKHOpenAPI1.Name = "axKHOpenAPI1";
+            this.axKHOpenAPI1.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("axKHOpenAPI1.OcxState")));
+            this.axKHOpenAPI1.Size = new System.Drawing.Size(63, 23);
+            this.axKHOpenAPI1.TabIndex = 0;
+            // 
+            // 로그인
+            // 
+            this.로그인.Location = new System.Drawing.Point(12, 12);
+            this.로그인.Name = "로그인";
+            this.로그인.Size = new System.Drawing.Size(75, 23);
+            this.로그인.TabIndex = 1;
+            this.로그인.Text = "로그인";
+            this.로그인.UseVisualStyleBackColor = true;
+            this.로그인.Click += new System.EventHandler(this.로그인_Click);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.Controls.Add(this.로그인);
+            this.Controls.Add(this.axKHOpenAPI1);
+            this.Name = "Form1";
             this.Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(this.axKHOpenAPI1)).EndInit();
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private AxKHOpenAPILib.AxKHOpenAPI axKHOpenAPI1;
+        private System.Windows.Forms.Button 로그인;
     }
 }
 
