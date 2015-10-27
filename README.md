@@ -16,7 +16,8 @@ Automated stock trading system
 * Kanban Board: https://waffle.io/xaveng/StockLearning
 * TortoiseGit: https://tortoisegit.org/
 * msysgit: https://git-for-windows.github.io/
-
+* kiwoom open api: https://www3.kiwoom.com/nkw.templateFrameSet.do?m=m1408000000
+* kiwoom HTS: https://www3.kiwoom.com/nkw.templateFrameSet.do?m=m1408000000
 
 
 # Reference
